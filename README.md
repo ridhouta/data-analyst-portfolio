@@ -16,7 +16,7 @@ Junior data analyst in training. Documenting my learning path and projects in SQ
 
 | Project | Tools | Description |
 |--------|-------|-------------|
-| Coming soon | SQL | — |
+| | [Mental Health of International Students](./01-mental-health-sql/) | SQL (PostgreSQL) | Analyzing how length of stay affects depression, social connectedness, and acculturative stress in international students | | SQL | — |
 
 ---
 
