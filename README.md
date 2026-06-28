@@ -18,7 +18,7 @@ Junior data analyst in training. Documenting my learning path and projects in SQ
 
 | Project | Tools | Description |
 |---------|-------|-------------|
-| [Life-OS Dashboard](https://github.com/ridhouta/life-os) | PostgreSQL, Supabase, Next.js, Recharts | Full-stack personal analytics dashboard. Designed a normalized Postgres schema with row-level security, wrote the aggregation queries behind every chart, and deployed it to production. Debugged real schema and auth issues along the way. |
+| [Life-OS Dashboard](https://github.com/ridhouta/life-os) | PostgreSQL · Supabase · Next.js · Recharts · Vercel | Full-stack personal analytics dashboard. Designed a normalized Postgres schema with row-level security, wrote the aggregation queries behind every chart, and deployed it to production. Debugged real schema and auth issues along the way. |
 | [Mental Health of International Students](./01-mental-health-sql/) | PostgreSQL | Analyzing how length of stay affects depression, social connectedness, and acculturative stress in international students. |
 
 ---
